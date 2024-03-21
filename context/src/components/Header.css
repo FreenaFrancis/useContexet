@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: black;
+    height: 80px;
+    margin-top: 0;
+}
+
+.nav li{
+    color: white;
+    padding-top: 30px;
+}
+
+.nav > li:hover{
+    color: turquoise;
+}
